@@ -1,0 +1,5 @@
+# Usage
+
+```
+./generate.py Pseudo
+```
